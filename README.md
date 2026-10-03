@@ -14,8 +14,8 @@ A collection of Python programs from my college coursework, covering Python fund
 │   │   ├── SLinkedList_Deletion.py
 │   │   ├── SLinkedList_Insertion.py
 │   │   ├── StackList.py
-|   |   ├──CircularLinkedList_insertion.py
-|   |   └──CircularLinkedList_deletion.py
+|   |   ├── CircularLinkedList_insertion.py
+|   |   └── CircularLinkedList_deletion.py
 │   └── Projects/
 │       ├── Parking_Lot_Management.py
 │       └── Railway_Waiting_List.py
